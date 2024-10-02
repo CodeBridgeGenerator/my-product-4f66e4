@@ -1,0 +1,52 @@
+[
+    {
+        "model": "Accord",
+        "make": "Honda",
+        "year": 2020
+    },
+    {
+        "model": "Camry",
+        "make": "Toyota",
+        "year": 2021
+    },
+    {
+        "model": "Model 3",
+        "make": "Tesla",
+        "year": 2022
+    },
+    {
+        "model": "Mustang",
+        "make": "Ford",
+        "year": 2019
+    },
+    {
+        "model": "Civic",
+        "make": "Honda",
+        "year": 2023
+    },
+    {
+        "model": "Altima",
+        "make": "Nissan",
+        "year": 2020
+    },
+    {
+        "model": "Cherokee",
+        "make": "Jeep",
+        "year": 2021
+    },
+    {
+        "model": "Malibu",
+        "make": "Chevrolet",
+        "year": 2022
+    },
+    {
+        "model": "3 Series",
+        "make": "BMW",
+        "year": 2023
+    },
+    {
+        "model": "Santa Fe",
+        "make": "Hyundai",
+        "year": 2020
+    }
+]
